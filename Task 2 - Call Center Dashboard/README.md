@@ -25,7 +25,5 @@ The visualization encompasses a main dashboard and six tooltip pages tailored fo
 ## Insights
 Highlighted insights include peak call times, agent performance metrics, and customer satisfaction trends, offering actionable insights for managerial review.
 
-## Interactive Dashboard
-Explore the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZmNiNWNiZGMtZTM4MS00ZDI3LTlhNTUtODMwOTZmZDExOGI5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 
 Thank you for joining this analysis journey!
