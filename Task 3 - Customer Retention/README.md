@@ -21,7 +21,7 @@
   - Offer recommendations to enhance customer retention strategies.
 
 ### Data Collection
-The analysis utilizes a dataset provided by PwC Switzerland, accessible here: [Churn Dataset](Link-to-Dataset)
+The analysis utilizes a dataset provided by PwC Switzerland.
 
 ### Preparing the Data
 After importing into Microsoft Power BI Desktop, the dataset underwent transformation in Power Query.
@@ -40,7 +40,7 @@ Each field within the `Churn` dataset provides specific customer information, ra
 - Filled 11 missing `TotalCharges` entries with corresponding `MonthlyCharges`, assuming these customers are newly subscribed.
 
 #### Data Transformation
-Transformed the dataset to enhance analytical clarity, including unpivoting certain columns and replacing values to normalize the data. Additionally, predictive analysis was performed using Python, detailed in a [Jupyter notebook](Link-to-Jupyter-Notebook).
+Transformed the dataset to enhance analytical clarity, including unpivoting certain columns and replacing values to normalize the data. 
 
 ### Building the Model
 The cleaned and transformed dataset facilitated the creation of a relational model within Power BI:
