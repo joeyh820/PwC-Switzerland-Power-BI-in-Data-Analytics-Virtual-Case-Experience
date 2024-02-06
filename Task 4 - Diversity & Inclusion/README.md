@@ -22,7 +22,7 @@
 
 ### Data Sourcing
 
-The analysis is based on a dataset provided by PwC Switzerland, available here: [Diversity & Inclusion Dataset](Link-to-Dataset).
+The analysis is based on a dataset provided by PwC Switzerland. 
 
 ### Data Preparation
 
