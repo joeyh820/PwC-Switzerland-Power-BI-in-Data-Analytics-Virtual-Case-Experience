@@ -11,4 +11,3 @@ The program, aimed at upskilling PwC employees to become "Digital Accelerators,"
 
 ## Technical Stack
 - **Visualization**: Microsoft PowerBI, PowerPoint for layout design.
-- **Predictive Analysis**: Python 3.11 with Pandas, Numpy, scikit-learn, XGBoost.
