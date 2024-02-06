@@ -60,10 +60,6 @@ Developed a Power BI dashboard comprising three primary sections and additional 
 #### Measures and Calculations
 Incorporated calculated measures to dynamically reflect customer metrics, such as churn rate and demographics distributions.
 
-#### Visual Design
-- **Font:** SF Pro Display
-- **Color Scheme:** Datacamp palette
-
 ### Insights and Analysis
 The dashboard reveals critical factors influencing customer churn, including contract types, service satisfaction levels, and demographic trends. Key findings suggest areas for strategic improvement to enhance customer loyalty.
 
