@@ -1,5 +1,8 @@
 # PWC PowerBI Virtual Case Experience
 
+!{image}(https://github.com/joeyh820/PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Case-Experience/blob/main/Certificate%20of%20Completion/Screenshot%202024-02-05%20223518.png)
+
+
 ## Introduction
 This repository showcases work from the PwC Switzerland PowerBI Virtual Case Experience by Forage, highlighting my submissions (.pbix files and insights) for the Digital Accelerator team simulation. Data files were provided by PwC Switzerland.
 
