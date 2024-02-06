@@ -1,6 +1,6 @@
 # Customer Retention Analysis for PhoneNow Services - PwC Switzerland Power BI Case Study
 
-## Background
+![background](https://user-images.githubusercontent.com/100661121/234232235-7a620f8e-e6e4-4385-8051-5fd6cfd52828.png)
 
 ### Overview
 - **Introduction**
